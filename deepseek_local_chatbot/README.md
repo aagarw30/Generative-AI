@@ -2,7 +2,7 @@
 
 A locally-run AI chatbot powered by DeepSeek models through Ollama, Langchain and Streamlit
 
-[Chatbot Interface](screenshot.png)
+[Chatbot Interface](snap.png)
 
 ## Chatbot Features ✨
 - 🔒 100% local execution - no internet required with help of models from Ollama
